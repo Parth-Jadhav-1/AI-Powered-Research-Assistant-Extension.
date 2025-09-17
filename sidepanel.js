@@ -54,7 +54,7 @@ async function processSelectedText(operationType) {
     } catch (error) {
         showResult('Error: ' + error.message);
     }
-}
+}""
 
 // Save notes to local storage
 async function saveNotes() {
